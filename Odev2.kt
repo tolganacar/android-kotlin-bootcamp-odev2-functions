@@ -2,7 +2,7 @@ package com.example.kotlinbootcampodev2
 
 class Odev2 {
 
-    //soru 1
+    //soru 1 
     fun kilometreyiMileCevir(km: Double): Double {
         if (km > 0) {
             return km * 0.621
